@@ -19,3 +19,5 @@ Pin the extension to your toolbar (click the 🔧 Extensions icon → Pin).
 Open Gmail.
 Login using Google (backend is already deployed on Render).
 Start using AI features (Email drafting, Smart Replies).
+
+#NOTE: it may take long to generate a reply as backend is deployed on render due to which it takes prity much time to restart...
